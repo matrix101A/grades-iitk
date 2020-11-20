@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/grades-iitk/static/css/main.b61f2f85.chunk.css",
-    "main.js": "/grades-iitk/static/js/main.f8e879d5.chunk.js",
-    "main.js.map": "/grades-iitk/static/js/main.f8e879d5.chunk.js.map",
+    "main.js": "/grades-iitk/static/js/main.b28ff9e6.chunk.js",
+    "main.js.map": "/grades-iitk/static/js/main.b28ff9e6.chunk.js.map",
     "runtime-main.js": "/grades-iitk/static/js/runtime-main.0b80454f.js",
     "runtime-main.js.map": "/grades-iitk/static/js/runtime-main.0b80454f.js.map",
     "static/js/2.b902f047.chunk.js": "/grades-iitk/static/js/2.b902f047.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0b80454f.js",
     "static/js/2.b902f047.chunk.js",
     "static/css/main.b61f2f85.chunk.css",
-    "static/js/main.f8e879d5.chunk.js"
+    "static/js/main.b28ff9e6.chunk.js"
   ]
 }
